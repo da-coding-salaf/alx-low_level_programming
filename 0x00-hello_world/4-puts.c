@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- *  *main- Serves as the entry point for the program
- *    *Returnerwise returns non-zero value.
-*/
+/**
+ *  * main - main block
+ *   * Return: 0
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
