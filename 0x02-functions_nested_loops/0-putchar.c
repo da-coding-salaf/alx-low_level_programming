@@ -1,6 +1,6 @@
-#include "mymain.h"
+#include "main.h"
 /**
- *  main - Print "mymain" in new line.
+ *  main - Print "mymain" in new lide.
  *  Description: You are not allowed to use libraries.
  *  Return: 0
  */
