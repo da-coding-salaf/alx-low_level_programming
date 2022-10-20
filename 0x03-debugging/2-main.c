@@ -14,11 +14,11 @@ int main(void){
 
 	int largest;
 
-	a =7;
+	a = 972;
 
-	b = 9;
+	b = -98;
 
-	c = 122;
+	c = 0;
 
 
 
