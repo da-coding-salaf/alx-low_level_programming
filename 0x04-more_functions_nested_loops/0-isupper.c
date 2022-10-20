@@ -1,11 +1,13 @@
 #include <stdio.h>
-#include <ctype.h>
+#include "main.h"
 /**
- *	_isupper - returns the largest of 3 numbers
- *	@c: first integer
- *	Return: 1
+ * _isupper - function that checks for uppercase characters
+ * @c: int type number
+ * Return: 1 if uppercase, else 0
  */
 int _isupper(int c)
 {
-return (isupper(c));
+if (c > 64 && c < 91)
+	return (1);
+return (0);
 }
