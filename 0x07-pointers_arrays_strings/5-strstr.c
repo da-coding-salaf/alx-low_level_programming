@@ -19,7 +19,7 @@ while (haystack[i] != '\0')
 	{
 		if (haystack[i + c] != needle[j + c])
 			break;
-			c++;
+		c++;
 	}
 	if (needle[j + c] == '\0')
 		return (&haystack[i]);
